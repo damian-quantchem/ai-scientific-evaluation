@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it using the following metadata."
+title: "DFT, ML, and AI Scientific Evaluation for Catalysis"
+version: "2025.12.29"
+doi: "TBD"
+authors:
+  - family-names: "Taylor"
+    given-names: "Damian"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-12-29
+url: "https://github.com/<damian-quantchem>/<ai-scientific-evaluation>"
